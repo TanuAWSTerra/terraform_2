@@ -1,4 +1,4 @@
-# Terrafrom ![Alt text](terrformICON-1.jpg)
+# Terrafrom ![](./terrformICON.jpg)
 ### 🔍 Understanding EC2 Instances:
 ##### Amazon EC2 provides resizable compute capacity in the cloud. Dive deep into selecting the right instance types, optimizing performance, and ensuring cost-effectiveness. 
 ### 🛠️ Infrastructure as Code with Terraform:
